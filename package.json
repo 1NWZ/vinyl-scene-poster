@@ -1,0 +1,17 @@
+{
+  "name": "vinyl-scene-poster",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One photo to an AI-generated overhead scene and a looping vinyl poster",
+  "license": "MIT",
+  "scripts": {
+    "render": "node scripts/render.cjs",
+    "cover": "node scripts/render.cjs --cover"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
