@@ -1,0 +1,4 @@
+interface:
+  display_name: "唱片里的微缩世界"
+  short_description: "将单张照片转成黑胶唱片与微缩场景融合的循环动态图文海报"
+  default_prompt: "使用 $vinyl-scene-poster，将我上传的照片制作成场景与唱片融合的循环动态海报，并输出视频、封面和动画源文件。"
